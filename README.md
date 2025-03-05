@@ -8,6 +8,9 @@
 
 ![{F4E1563C-9857-4DB3-A809-75E5CD354635}](https://github.com/user-attachments/assets/93f98ba4-2d33-4f1f-951e-5bbd27680f82)
 
+Dashboard:
+
+![HR_Analysis_Dashboard_pic](https://github.com/user-attachments/assets/5e56309e-57dd-4451-85a6-6a67f8ec35e6)
 
 ![{5D7371F5-8E95-4038-8D33-CE24856EDE33}](https://github.com/user-attachments/assets/61cdfaf3-ba81-4271-b6d3-b395f05fd3cf)
 
